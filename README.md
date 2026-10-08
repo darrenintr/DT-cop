@@ -1,15 +1,16 @@
 # DT cop
 
-DT cop is an unincorporated developer tools project based in Taiwan, focused on reducing the barriers to building and maintaining cross-platform applications.
+DT cop is an unregistered developer tools concept based in Taiwan. Product development and business operations have not started. The proposed direction is to reduce the barriers to building and maintaining cross-platform applications.
 
 ## Project and contact
 
 - Website: https://hpccss.indevs.in/
 - Work email: darren@hpccss.indevs.in
 - Public website source: https://github.com/darrenintr/DT-cop
-- Current status: unregistered brand / unincorporated project
+- Current status: unregistered brand / concept only
+- Product development and business operations: not started
 
-This repository contains our bilingual introduction website. It documents our product direction; it does not contain a released cross-platform development tool or an implemented Claude integration.
+This repository contains a bilingual introduction website for the concept. It does not contain a cross-platform development tool, a product prototype, or an implemented Claude integration. The creation of this repository or website is not a company founding date.
 
 ## Preview locally
 
@@ -19,8 +20,8 @@ Open [index.html](./index.html) in a browser. The site is a single static HTML f
 
 - English and Traditional Chinese language switcher
 - Responsive one-page layout
-- Project overview and cross-platform development approach
-- Contact email and public source link
+- Proposed developer tools direction
+- Contact email and public website source link
 - Inline favicon, styles, and language-switching script
 
-Add confirmed project start dates, product names, supported platforms, and demonstrable implementation details as they become available.
+The proposed product scope and any future Claude workflow still need to be defined and validated.
